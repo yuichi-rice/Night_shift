@@ -25,3 +25,6 @@
 
 # 画面遷移
 https://xd.adobe.com/view/33f5689b-de10-44b4-b874-a20e01d9f35c-66a6/
+
+# テーブル設計,ER図
+https://drive.google.com/file/d/1TCCIvCGJPvwaqK0L1pXGHAh04Z5gmDnP/view?usp=sharing
